@@ -1,4 +1,4 @@
-# RIVALZ NETWORK BOT
+## RIVALZ NETWORK BOT
 
 ![intro](assets/img1.png)
 
